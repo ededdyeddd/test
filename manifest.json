@@ -1,5 +1,5 @@
 {
-  "name": "First plugin",
+  "name": "my-first-plugin",
   "id": "1469438460088256136",
   "api": "1.0.0",
   "main": "code.js",
